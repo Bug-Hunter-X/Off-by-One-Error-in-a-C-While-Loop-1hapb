@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in C programming, specifically within a while loop.  The original code contains a potential error in its loop termination condition.  The solution provides a corrected version that avoids this issue.
